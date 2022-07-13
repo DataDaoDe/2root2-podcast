@@ -1,0 +1,8 @@
+# os relics
+.DS_Store
+
+# python relics
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints

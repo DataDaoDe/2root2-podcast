@@ -82,3 +82,54 @@
 * Maps are tools for thinking, not doctrines to force conformity, guidebooks not laws.
 
 * George Box: All models are wrong, the practical question is: how wrong do they have to be to not be useful.
+
+## Using a Map/Model
+
+### Things to consider
+1. Reality is the ultimate updater
+2. Consider the cartographer.
+3. Maps can influence territories.
+
+#### Reality is ultimate update
+* maps are good for: Traveling to a new city, having a first child, starting a new job,
+    * But the territory (cities, child, new job), changes and we should update map/models based on experience/feedback.
+* Ex: Stereotypes
+    * Can be useful to process large amounts of information
+    * Problem: when we forget the territory is much more complex, stereotype != territory.
+* Maps capture a territory at a specific point in time.
+    * A map may have done a good job at depicting what was != does good job at depicting what is.
+    * The faster the rate of change of the territory the harder it is for the map to keep up.
+
+#### Consider the cartographer
+* maps are not objective creations.
+    * Reflect the values, standards, limitations of their creators.
+    * Ex: Maps of countries today, borders change all the time, do not necessarily reflect the "will of the people" or natural geographic boundaries.
+    * consider: What was the cartographer trying to achieve? How does/did this influence the map?
+* Error: we think maps and reality are related and if they are not => we can alter reality to make them fit.
+
+"In general, when building statistical models, we must not forget that the aim is to understand something about the real world. Or predict, choose an action, make a decision, summarize evidence, and so on, but always about the real world, not an abstract mathematical world: our models are not the reality." - David Hand
+
+## Conclusion
+* Maps are valuable tools for human society, to pass on knowledge.
+* We must always be aware the limits of our models, maps, abstractions.
+* Maps/Models are:
+    * reductions of something far more complex.
+    * have elements of subjectivity.
+    * created at a particular moment in time.
+* We must use some model of the world in order to simplify and interact with it. (models are necessary)
+* Problems:
+    * Don't let maps prevent us from discovering new territory.
+    * Updating our existing map.
+
+### Model of Management
+* Model: Break tasks down, have employees specialize and financially incentive workers to complete the tasks.
+    * Model is no longer in use.
+* What happened?
+    * As more people understand the model, they may manipulate it.
+    * As competitors understand the model better, they copy and adapt it, making it less effective, removing the advantage.
+    * Model may be useful in one context (factory) but not in others as society changes (office, tech)
+    * Human beings are not automatons; a more advanced model might have seek incentives beyond the monetary ones (status, knowledge, etc.) 
+
+### Maps are necessarily Flawed
+* Maps/Models are flawed, but these flaws are necessary.
+* Lewis Caroll: a character created a map with a scale of 1 mile to 1 mile, such a map would not have the limitations of a map, but it also wouldn't be much help. You couldn't use it to go anywhere.

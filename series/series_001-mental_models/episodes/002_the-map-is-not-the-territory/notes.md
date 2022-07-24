@@ -1,5 +1,6 @@
 # The Map is not the Territory
 
+* source: Great mental models Vol. 1 - Shane Parrish
 
 * A map can also be thought of as a model of something, of reality.
 * The map of reality is not reality. Maps are imperfect, reductions of what they represent.

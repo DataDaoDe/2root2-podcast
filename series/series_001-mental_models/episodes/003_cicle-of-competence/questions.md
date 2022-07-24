@@ -1,0 +1,6 @@
+# Questions
+
+1. What is a circle of competence?
+2. How do you know when you have one?
+3. How do you build and maintain one?
+4. How do you operate outside of one?

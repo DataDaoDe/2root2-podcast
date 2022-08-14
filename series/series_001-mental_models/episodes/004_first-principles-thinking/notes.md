@@ -7,8 +7,11 @@
 
 ## What is first principles thinking?
 * background: constrast to reasoning by analogy
-    * understanding one thing in terms of a similar thing
-* tool to help clarify complicated problems
+    * understanding one thing in terms of a similar thing:
+    * object X and Y have similar properties: a,b,c
+    * object X has property d, therefore Y might have property d.
+    * ex: Europa (1 of 4 largest moons of Jupiter) has atmosphere of oxygen, earth has atmosphere of oxygen and life, therefore Europa might have life.
+* FPT is a tool to help clarify complicated problems
 * a way to blow past inaccurate assumptions
 * method to reevaluate and improve something
     * to improve something, we need to understand why it is successful or not.
@@ -28,10 +31,13 @@
 * 1) Socratic Questioning:
     * Clarify thinking and explain origins of your ideas. (What exactly do I think? Why do I think it?)
     * Challenge assumptions. (How do I know this is true? What if I thought the opposite were true?)
+    * Questioning the original questions. (Why did I think that? Was I correct?)
     * Looking for evidence. (How can I back this up?)
     * Considering alternative perspectives (what might others think? How do I know I am correct?)
     * Examining consequences/implications. (What if I am wrong? What are the consequences?)
-    * Questioning the original questions. (Why did I think that? Was I correct?)
+
+![Socratic Questioning](./data/socratic-questions.png)
+
 * 2) The Five Whys:
     * goal: land on a what or a how, probe the limits of knowledge/understanding.
     * ask why until you land on a falsifiable fact, a what/how.
@@ -52,7 +58,6 @@
     * technique:
         * accept only information you know is true.
         * break down these truths into smaller units.
-        * 
 
 ## What are some examples?
 * sterile stomach:

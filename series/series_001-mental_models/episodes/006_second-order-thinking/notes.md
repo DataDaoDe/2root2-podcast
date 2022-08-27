@@ -1,7 +1,9 @@
 # Second-Order Thinking
 
 * First order thinking => anticipating the direct results of your actions.
+    * Fast and easy
 * Second order thinking:
+    * Deliberate and difficult
     * thinking about the results of the results
     * thinking about the entire branching tree of consequences (second and third order)
 * Often second order effects aren't realized until its to late
@@ -72,8 +74,10 @@
     * You can die by walking down the steps, this happens to people every year. Does this mean you should never walk down steps?
 * Second-order thinking must analyze the most likely effects and their most likely consequences, if we worried about all possible effects we could never act or getting anything done.
 
-## Conclusion
+## Conclusion & Tips
 * consider the consequences, ask yourself: and then what?
+* Think through time intervals: what about 10 minutes, 1 hour, 1 day, 10 weeks, 10 years?
+* Sketch out consequences in a branching tree
 
 ## Idea: Developing Trust
 * Trust and Trustworthiness is the result of multiple interactions.

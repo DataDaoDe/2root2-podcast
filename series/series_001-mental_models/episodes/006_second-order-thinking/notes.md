@@ -23,6 +23,9 @@
     * The bacteria that survive the continuous antibiotic exposure become antibiotic resistant.
     * Mass numbers of drug resistant bacteria are becoming part of our food chain.
 
+### Example 3: 
+* Software: Suggesting jobs to users based on their and proximity to the working location.
+
 
 ## Impossibility of Doing just one thing
 * Garett Hardin (ecologist), "You can never merely do one thing."
@@ -30,6 +33,7 @@
 * Dense webs of connections can make actions have far reaching consequences.
 * Things are not produced and consumed in a vacuum.
 * John Muir (scottish-american naturalist, environmental philosopher) "When we try to pick out anything by itself, we find it hitched to everything else in the universe."
+* Ex Prog: 
 
 ## What Second-Order Thinking is Not
 * It is not a way to predict the future

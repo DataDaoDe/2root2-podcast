@@ -1,6 +1,7 @@
 # Pivoting
 
 * Renaming to the QuantU Podcast
+* Why the rename?
 
 ## What is QuantU?
 * A platform for life-long learners
@@ -27,4 +28,3 @@
 
 ## How you can get in touch with us
 * @QUANTU_APP on twitter or youtube.
-* 

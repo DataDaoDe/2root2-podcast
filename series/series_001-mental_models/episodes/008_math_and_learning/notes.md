@@ -73,6 +73,7 @@
 
 * Thus, no such bijection can exist (because assuming its existence got us the contradiction).
 * Also, the set of all real numbers is the same size as the set of reals b/t 0 and 1.
+* We have a proofs that show its impossible to prove and impossible to disprove whether their are infinite sets b/t aleph0 and aleph1, given our current set theory axioms.
 
 # Apps & Services
 1. Quazel
